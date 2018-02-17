@@ -1,0 +1,7 @@
+body { padding-top: 60px; color: #000099; font-family: 'Montserrat', sans-serif;}
+a {font-style:italic; color: #1a1aff;}
+footer { margin-top: 100px; }
+table, td, th { vertical-align: middle; border: none; }
+th { border-bottom: 1px solid #DDD; }
+.ideasform {color: #ccccff; font-weight:bold; text-transform:uppercase; font-style: normal;}
+.aboutme {color: #1a1aff;}
